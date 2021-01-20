@@ -5,7 +5,8 @@
   "license": "MIT",
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "docs:cname": "echo docs.cfw.lbyczf.com >> docs/.vuepress/dist/CNAME"
   },
   "devDependencies": {
     "vuepress": "^1.8.0"
