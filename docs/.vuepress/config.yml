@@ -1,0 +1,45 @@
+title: Clash for Windows
+description: by Fndroid
+markdown:
+  lineNumbers: true
+themeConfig:
+  smoothScroll: true
+  nav:
+    - text: Download
+      link: https://github.com/Fndroid/clash_for_windows_pkg/releases
+  sidebar:
+    - title: Clash for Windows
+      path: /
+      collapsable: false
+      sidebarDepth: 2
+      children:
+        - /quickstart
+        - /configfile
+        - title: 界面组成
+          path: /ui
+          children:
+            - /ui/general
+            - /ui/proxies
+            - path: /ui/profiles
+              title: 配置 Profiles
+              children:
+                - /ui/profiles/policies
+                - /ui/profiles/rules
+            - /ui/connections
+            - /ui/logs
+            - /ui/feedback
+        - /urlscheme
+        - /bypass
+        - /breakconn
+        - /7z
+        - /tun
+        - /tap
+        - /mixin
+        - /parser
+        - /profilespath
+        - /childprocess
+        - /trayicon
+        - /font
+        - /proxyorder
+        - /header
+        - /mac
