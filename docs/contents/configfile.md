@@ -13,7 +13,7 @@ CFW 启动的过程会使用到两个配置文件，分别是：
 
 这是 Clash 的启动文件，位于`Home Directory`中，如果此文件有错，则 Clash 核心将无法启动，一般会出现如下界面：
 
-![](./assets/configfile1.png)
+![](~@imgs/configfile1.png)
 
 ::: danger
 此文件关乎 Clash 核心是否能正常启动，如非必要，请勿更改

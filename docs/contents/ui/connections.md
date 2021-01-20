@@ -1,6 +1,6 @@
 # 连接 Connections
 
-![](../assets/ui-connections.png)
+![](~@imgs/ui-connections2.png)
 
 此界面能直观地查看当前所有连接的:
 

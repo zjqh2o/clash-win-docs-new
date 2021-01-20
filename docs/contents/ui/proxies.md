@@ -1,6 +1,6 @@
 # 代理 Proxies
 
-![](../assets/ui-proxies1.png)
+![](~@imgs/ui-proxies1.png)
 
 代理页面主要的作用就是**切换代理模式**和**切换节点**
 

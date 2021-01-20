@@ -1,6 +1,6 @@
 # Profiles 配置
 
-![](../assets/ui-profiles1.png)
+![](~@imgs/ui-profiles1.png)
 
 ::: tip
 深颜色表示当前配置文件已被载入成功

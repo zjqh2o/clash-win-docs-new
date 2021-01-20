@@ -1,6 +1,6 @@
 # 规则编辑
 
-![](../../assets/ui-profiles-rules1.png)
+![](~@imgs/ui-profiles-rules1.png)
 
 此界面用于增加和删减配置文件中的规则，目前 Clash 支持的规则类型如下：
 

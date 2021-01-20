@@ -1,6 +1,6 @@
 # 常规 General
 
-![](../assets/ui-general1.png)
+![](~@imgs/ui-general.png)
 
 在常规页面下可以清楚了解当前配置文件的设置，譬如常规的 http 和 socks5 代理端口等，方便对某些应用单独进行配置代理
 

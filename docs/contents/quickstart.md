@@ -6,7 +6,7 @@
 
 首次启动 Clash for Windows 后会出现下图所示界面代表启动成功：
 
-![](./assets/quickstart1.png)
+![](~@imgs/quickstart1.png)
 
 ## 导入配置文件
 
@@ -21,13 +21,13 @@
 
 点击界面左侧菜单 Profiles，在顶部输入框填入 URL 并点击 Download 即可，下载完成后点击对应的配置文件即可载入
 
-![](./assets/quickstart2.png)
+![](~@imgs/quickstart2.png)
 
 ### 本地文件拖拽导入
 
 如果无法通过 URL 下载配置文件，则可以尝试在浏览器中下载配置文件后通过拖拽方式导入
 
-![](./assets/quickstart3.gif)
+![](~@imgs/quickstart3.gif)
 
 ## 打开系统代理及开机自启选项
 
@@ -36,7 +36,7 @@
 - System Proxy：设置系统代理
 - Start with Windows：开机自启动
 
-![](./assets/quickstart4.png)
+![](~@imgs/quickstart4.png)
 
 ## 完成！
 

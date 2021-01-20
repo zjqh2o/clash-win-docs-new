@@ -1,6 +1,6 @@
 # 日志 Logs
 
-![](../assets/ui-logs1.png)
+![](~@imgs/ui-logs1.png)
 
 此界面能直观地观察当前命中的规则以及所使用的策略类型及路由
 
