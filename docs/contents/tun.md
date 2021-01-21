@@ -16,7 +16,7 @@ dns:
   enhanced-mode: redir-host
   nameserver:
     - 1.1.1.1 # 真实请求DNS，可多设置几个
- interface-name: en0 # 出口网卡名称，或者使用下方的自动检测
+# interface-name: WLAN # 出口网卡名称，或者使用下方的自动检测
 tun:
   enable: true
   stack: gvisor
@@ -39,7 +39,7 @@ dns:
   enhanced-mode: redir-host
   nameserver:
     - 1.1.1.1 # 真实请求DNS，可多设置几个
- interface-name: en0 # 出口网卡名称，或者使用下方的自动检测
+# interface-name: en0 # 出口网卡名称，或者使用下方的自动检测
 tun:
   enable: true
   stack: system # 或 gvisor
@@ -55,7 +55,7 @@ dns-hijack 不可以劫持局域网地址的 DNS，如 192.168.0.0/16，请务�
 
 ## 配置文件参考
 
-https://github.com/Dreamacro/clash/wiki/Premium-Core-Features
+[Clash Wiki](https://github.com/Dreamacro/clash/wiki/Premium-Core-Features)
 
 ## 技巧
 
