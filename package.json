@@ -9,6 +9,8 @@
     "docs:cname": "echo docs.cfw.lbyczf.com >> docs/.vuepress/dist/CNAME"
   },
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.0",
+    "@vuepress/plugin-google-analytics": "^1.8.0",
     "vuepress": "^1.8.0"
   }
 }

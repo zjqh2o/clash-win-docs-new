@@ -3,10 +3,20 @@ const path = require("path");
 module.exports = {
   title: "Clash for Windows",
   description: "by Fndroid",
+  plugins: [
+    [
+      "@vuepress/google-analytics",
+      {
+        ga: "UA-128887007-2",
+      },
+    ],
+    "@vuepress/back-to-top",
+  ],
   markdown: {
     lineNumbers: false,
   },
   themeConfig: {
+    lastUpdated: "上次更新",
     smoothScroll: true,
     nav: [
       {
