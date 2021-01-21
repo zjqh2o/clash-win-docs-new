@@ -16,16 +16,16 @@ module.exports = {
     lineNumbers: false,
   },
   themeConfig: {
+    repo: "Fndroid/clash-win-docs-new",
+    editLinks: true,
+    docsDir: "docs",
+    editLinkText: "在Github上编辑此页",
     lastUpdated: "上次更新",
     smoothScroll: true,
     nav: [
       {
         text: "Download the APP",
         link: "https://github.com/Fndroid/clash_for_windows_pkg/releases",
-      },
-      {
-        text: "Github",
-        link: "https://github.com/Fndroid/clash-win-docs-new",
       },
     ],
     sidebar: [
