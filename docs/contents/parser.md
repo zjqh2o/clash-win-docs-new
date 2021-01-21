@@ -154,6 +154,10 @@ raw 是一个字符串，一般需要用 yaml 库解析成 JavaScript 对象
 - notify：发出系统通知方法，签名为`function notify(title:string, message:string, silent:bool)`
 - console：日志输出至文件，方便调试，在 Settings 界面中 Parser 设置下方打开
 
+:::tip
+除了以上工具类，在使用`.js`文件时，也可以通过`npm`引入第三方模块
+:::
+
 #### 配置文件元数据
 
 元数据为 JavaScript 对象，包括：
@@ -164,7 +168,9 @@ raw 是一个字符串，一般需要用 yaml 库解析成 JavaScript 对象
 - selected：策略组选择缓存，数组
 - mode：模式缓存
 
-**元数据在配置文件首次下载时为空对象**
+:::tip
+元数据在配置文件首次下载时为空对象
+:::
 
 ### 返回说明
 
