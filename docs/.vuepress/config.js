@@ -22,6 +22,10 @@ module.exports = {
     editLinkText: "在Github上编辑此页",
     lastUpdated: "上次更新",
     smoothScroll: true,
+    algolia: {
+      apiKey: "8bb2c4807c5ab16ee78df3bf257c86d2",
+      indexName: "lbyczf",
+    },
     nav: [
       {
         text: "Download the APP",
