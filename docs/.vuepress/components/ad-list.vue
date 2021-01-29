@@ -20,7 +20,7 @@ export default {
           img: "https://api.crhnode.top/banner.png",
         },
         {
-          url: "https://sy168.site/auth/register?code=mhjF",
+          url: "https://jike00.net/auth/register?code=LdON",
           img: "https://sy168.site/tupian/clash.jpg",
         },
         {
